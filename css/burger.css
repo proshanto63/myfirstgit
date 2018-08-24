@@ -1,0 +1,47 @@
+		*{
+			list-style:none;
+		
+		}
+		.item{
+			min-height:500px;
+			}
+			.item .burger img{
+				float:left;
+				margin-top:125px;
+				margin-left:5px;
+			
+			}
+			.item .burger_info{
+				margin-top:125px;
+				margin-right:5px;
+				width:300px;
+				height:300px;
+				float:right;
+				position:relative;
+				background-color:black;
+				color:yellow;
+			}
+			.item .burger_info ul{
+				background-color:black;
+				color:yellow;
+				border:none;
+				list-style:none;
+			}
+			.item .burger_info li{
+				background-color:black;
+				color:yellow;
+				border:none;
+				list-style:none;
+			}
+			.item .burger_info .details{
+				color:white;
+			}
+			.item .burger_info  a:link{
+				color:yellow;
+			}
+			.item .burger_info p{
+				font-size:24px;
+				border-bottom:5px solid yellow;
+				color:yellow;
+				width:175px;
+			}

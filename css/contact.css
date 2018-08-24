@@ -1,0 +1,59 @@
+.content{
+				min-height:600px;
+			
+			}
+			.content .contact_text{
+				float:left;
+				height:100px;
+				border-right:2px solid gray;
+				margin-top:200px;
+			}
+			.content .contact_text .text{
+				margin-top:25px;
+				margin-right:5px;
+				margin-left:60px;
+				font-family:algerian;
+				font-size:50px;
+				
+			
+			}
+			.content .contact_form{
+				float:right;
+				margin-top:75px;
+				margin-right:50px;
+				margin-left:50px;
+				width:325px;
+				height:400px;
+				background-color:gray;
+				color:black
+			
+			}
+			.content .contact_form .info{
+				margin-top:25px;
+				margin-left:50px;
+			
+			}
+			.content .contact_form .info p{
+				font-size:20px;
+				margin-top:5px;
+			}
+			.content .contact_form .info input{
+				height:30px;
+				margin-top:10px;
+				margin-right:30px;
+			}
+			.content .contact_form .info .submit{
+				width:80px;
+				height:30px;
+				background-color:black;
+				color:white;
+				border:2px solid black;
+			}
+			.content .contact_form .info .submit:hover{
+				width:80px;
+				height:30px;
+				background-color:white;
+				color:black;
+				border:2px solid white;
+			}
+			
